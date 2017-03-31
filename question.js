@@ -3,6 +3,10 @@ let NO_VALID_ID = 'no valid id';
 function loadQuestion() {
     // use PapaParse library to convert csv to JSON
     console.log(window.location.href);
+    let curUrl = window.location.href;
+    let urlArray = curUrl.split('/');
+    console.log (urlArray);
+
     Papa.parse('https://decision-tree-template.github.io/questions.csv', {
         download: true,
         header: true,
