@@ -7,8 +7,9 @@ function loadQuestion() {
     let urlArray = curUrl.split('/');
     console.log (urlArray);
     console.log ('csv url: ' + 'https://' + urlArray[2] + '/questions.csv');
+    let csvUrl = 'https://' + urlArray[2] + '/questions.csv';
 
-    Papa.parse('https://decision-tree-template.github.io/questions.csv', {
+    Papa.parse(csvUrl, {
         download: true,
         header: true,
         dynamicTyping: true,
