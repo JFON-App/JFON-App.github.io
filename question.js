@@ -2,7 +2,8 @@ let NO_VALID_ID = 'no valid id';
 
 function loadQuestion() {
     // use PapaParse library to convert csv to JSON
-    Papa.parse('https://ampeck.github.io/questions.csv', {
+    console.log(window.location.href);
+    Papa.parse('https://decision-tree-template.github.io/questions.csv', {
         download: true,
         header: true,
         dynamicTyping: true,
