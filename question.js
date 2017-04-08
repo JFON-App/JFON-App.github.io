@@ -41,19 +41,19 @@ function loadQuestion() {
                 addButton(question.button3name, question.button3link, buttonDiv)
             }
             if (question.button4name) {
-                addButton(question.button1name, question.button1link, buttonDiv)
+                addButton(question.button4name, question.button4link, buttonDiv)
             }
             if (question.button5name) {
-                addButton(question.button1name, question.button1link, buttonDiv)
+                addButton(question.button5name, question.button5link, buttonDiv)
             }
             if (question.button6name) {
-                addButton(question.button1name, question.button1link, buttonDiv)
+                addButton(question.button6name, question.button6link, buttonDiv)
             }
             if (question.button7name) {
-                addButton(question.button1name, question.button1link, buttonDiv)
+                addButton(question.button7name, question.button7link, buttonDiv)
             }
             if (question.button8name) {
-                addButton(question.button1name, question.button1link, buttonDiv)
+                addButton(question.button8name, question.button8link, buttonDiv)
             }
         }
     });
