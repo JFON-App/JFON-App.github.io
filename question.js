@@ -40,6 +40,21 @@ function loadQuestion() {
             if (question.button3name) {
                 addButton(question.button3name, question.button3link, buttonDiv)
             }
+            if (question.button4name) {
+                addButton(question.button1name, question.button1link, buttonDiv)
+            }
+            if (question.button5name) {
+                addButton(question.button1name, question.button1link, buttonDiv)
+            }
+            if (question.button6name) {
+                addButton(question.button1name, question.button1link, buttonDiv)
+            }
+            if (question.button7name) {
+                addButton(question.button1name, question.button1link, buttonDiv)
+            }
+            if (question.button8name) {
+                addButton(question.button1name, question.button1link, buttonDiv)
+            }
         }
     });
 }
