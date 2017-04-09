@@ -1,7 +1,5 @@
 id,heading,body,button1name,button1link,button2name,button2link,button3name,button3link,button4name,button4link,button5name,button5link,button6name,button6link,button7name,button7link,button8name,button8link
-1,Let's get started,Are you seeking <div class="tooltip">information
-  <span class="tooltiptext">informacion</span>
-</div>for yourself or for someone else?,Myself,2,Someone else,1,,,,,,,,,,,,
+1,Let's get started,Are you seeking <div class="tooltip">information<span class="tooltiptext">informacion</span></div>for yourself or for someone else?,Myself,2,Someone else,1,,,,,,,,,,,,
 2,Let's see what we can do for you.,In what country do you have citizenship?,United States of America,3,Mexico,4,Dual Citizenship,5,Other,5,,,,,,,,
 3,You are a United States citizen.,Dope! You're good to go!,Yes!,1,,,,,,,,,,,,,,
 4,You have Mexican citizenship.,Have any deportation proceedings (including arrest) been initiated against you?,Yes,6,No,7,,,,,,,,,,,,
