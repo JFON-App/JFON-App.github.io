@@ -14,7 +14,7 @@ id,heading,body,button1name,button1link,button2name,button2link,button3name,butt
 13,Your children all have Mexican citizenship.,"Do you want your children to become American citizens, too?",Yes,16,No,1,,,,,,,,,,,,
 14,Your children all have dual citizenship.,Are your children citizens of both the United States and Mexico?,Yes,1,No,1,,,,,,,,,,,,
 15,You want your children to become Mexican citizens. We can help.,Do your children currently have a guardian or caregiver (other than you) with <a href="https://www.legalzoom.com/knowledge/power-of-attorney/topic/power-of-attorney-definition" target="_blank">power of attorney</a>?,Yes,1,No,1,,,,,,,,,,,,
-16,You want your children to become American citizens. We can help.,Do your children currently have a guardian or caregiver (other than you) with power of attorney?,Yes,1,No,1,,,,,,,,,,,,
+16,You want your children to become American citizens. We can help.,Do your children currently have a guardian or caregiver (other than you) with <div class="tooltip">power of attorney<span class="tooltiptext">poder legal</span></div>?,Yes,1,No,1,,,,,,,,,,,,
 17,"Alright, just a few more questions.","In the event of your deportation, would you like your child to continue living in the Unites States or to move to Mexico with you?",Stay in the United States,18,Move to Mexico,1,,,,,,,,,,,,
 18,You're almost done.,What is the citizenship status of your child?,American,19,Mexican,20,Dual Citizenship,21,Other,1,,,,,,,,
 19,Your child has American citizenship.,"Do you want your child to become a Mexican citizen, too?",Yes,22,No,1,,,,,,,,,,,,
